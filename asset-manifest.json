@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shahroseaziz/shahroseio/static/css/main.1a498aef.chunk.css",
-    "main.js": "/shahroseaziz/shahroseio/static/js/main.446dd7e8.chunk.js",
-    "main.js.map": "/shahroseaziz/shahroseio/static/js/main.446dd7e8.chunk.js.map",
-    "runtime-main.js": "/shahroseaziz/shahroseio/static/js/runtime-main.1e6ac01f.js",
-    "runtime-main.js.map": "/shahroseaziz/shahroseio/static/js/runtime-main.1e6ac01f.js.map",
-    "static/js/2.6fd58bbd.chunk.js": "/shahroseaziz/shahroseio/static/js/2.6fd58bbd.chunk.js",
-    "static/js/2.6fd58bbd.chunk.js.map": "/shahroseaziz/shahroseio/static/js/2.6fd58bbd.chunk.js.map",
-    "index.html": "/shahroseaziz/shahroseio/index.html",
-    "precache-manifest.48f340b6197fcdd6cb67f9e3addc5006.js": "/shahroseaziz/shahroseio/precache-manifest.48f340b6197fcdd6cb67f9e3addc5006.js",
-    "service-worker.js": "/shahroseaziz/shahroseio/service-worker.js",
-    "static/css/main.1a498aef.chunk.css.map": "/shahroseaziz/shahroseio/static/css/main.1a498aef.chunk.css.map",
-    "static/js/2.6fd58bbd.chunk.js.LICENSE.txt": "/shahroseaziz/shahroseio/static/js/2.6fd58bbd.chunk.js.LICENSE.txt",
-    "static/media/me.jpg": "/shahroseaziz/shahroseio/static/media/me.815048e7.jpg"
+    "main.css": "/shahroseio/static/css/main.1a498aef.chunk.css",
+    "main.js": "/shahroseio/static/js/main.446dd7e8.chunk.js",
+    "main.js.map": "/shahroseio/static/js/main.446dd7e8.chunk.js.map",
+    "runtime-main.js": "/shahroseio/static/js/runtime-main.e3356a20.js",
+    "runtime-main.js.map": "/shahroseio/static/js/runtime-main.e3356a20.js.map",
+    "static/js/2.6fd58bbd.chunk.js": "/shahroseio/static/js/2.6fd58bbd.chunk.js",
+    "static/js/2.6fd58bbd.chunk.js.map": "/shahroseio/static/js/2.6fd58bbd.chunk.js.map",
+    "index.html": "/shahroseio/index.html",
+    "precache-manifest.26ef72789041dd93719ca48e2187c583.js": "/shahroseio/precache-manifest.26ef72789041dd93719ca48e2187c583.js",
+    "service-worker.js": "/shahroseio/service-worker.js",
+    "static/css/main.1a498aef.chunk.css.map": "/shahroseio/static/css/main.1a498aef.chunk.css.map",
+    "static/js/2.6fd58bbd.chunk.js.LICENSE.txt": "/shahroseio/static/js/2.6fd58bbd.chunk.js.LICENSE.txt",
+    "static/media/me.jpg": "/shahroseio/static/media/me.815048e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e6ac01f.js",
+    "static/js/runtime-main.e3356a20.js",
     "static/js/2.6fd58bbd.chunk.js",
     "static/css/main.1a498aef.chunk.css",
     "static/js/main.446dd7e8.chunk.js"
