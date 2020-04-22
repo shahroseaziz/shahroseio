@@ -14,18 +14,15 @@ const TitleHeader = () => {
     return <div className="Title-header">Shahrose Aziz</div>
 }
 
-const TitleMain = () => {
-    return (
-        <div className="Title-main">
-            <TitleHeader />
-        </div>
-    )
+const TitleFooter = () => {
+    return <div className="Title-footer"><p>Made with React</p></div>
 }
 
 const Title = () => {
     return (
         <div className="Title">
-            <TitleMain />
+            <TitleHeader />
+            <TitleFooter />
         </div >
     )
 }

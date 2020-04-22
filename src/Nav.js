@@ -24,7 +24,7 @@ class Nav extends Component {
 
   render() {
     return (
-      <spanner>
+      <div className="App">
         <div className="NavBar">
           <div className="NavItem">
           <button onClick={this.clickOff}> Home </button>
@@ -34,11 +34,11 @@ class Nav extends Component {
             <button onClick={this.clickOn}> About Me </button>
           </div>
         </div>
-        <div>
+        <div className="Main">
           {!this.state.aboutMeButton && <Title />}
           {this.state.aboutMeButton && <AboutMe />}
         </div>
-      </spanner>
+      </div>
     )
   }
 }
