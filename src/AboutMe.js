@@ -4,17 +4,12 @@ import './App.css';
 const Profile = () => {
     return(
         <div className="AboutMe-profile">
-        <b>
-            I'm a Health Tech Product Manager passionate about personalized, predictive medicine.
-        </b>
-        <br />
         <p>
-            I'm the PM for the SensorSuite team at Verily Life Sciences, an Internet-of-Medical-Things platform, 
-            optimized for the intersection beween Devices, Data Science, and Software Engineering.
+            I'm a Health Tech Product Manager passionate about personalized, predictive medicine.
         </p>
         <p>
-            During my free time, I enjoy learning basic programming and web development. This particular site was built with 
-            <code> React</code>. We'll see what else we can throw in this thing!
+            During my free time, I enjoy learning basic programming and web development. Am I good at it? No way.
+            Will I keep trying? Honestly, it's up in the air.
         </p>
         </div>
     )

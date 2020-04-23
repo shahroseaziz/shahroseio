@@ -3,15 +3,13 @@ import './App.css';
 import AboutMe from './AboutMe';
 
 
-const TitleTop = () => {
-    return (
-        <div className="Title-top">
-        </div>
-    )
-}
-
 const TitleHeader = () => {
-    return <div className="Title-header">Shahrose Aziz</div>
+    return <div className="Title-header">
+        Shahrose Aziz
+        <div className = "Title-sub-header">
+            product manager \ health tech geek \ amateur web dev
+        </div>      
+    </div>
 }
 
 const TitleFooter = () => {
